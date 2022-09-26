@@ -1,1 +1,1 @@
-readme for basics
+#!/bin/bash
