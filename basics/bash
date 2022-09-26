@@ -4,3 +4,4 @@ do
 	echo "#!/bin/bash" > ${0-current_working_directory}
 do
 	echo "#!/bin/bash" > ${0-current_working_directory}
+done
