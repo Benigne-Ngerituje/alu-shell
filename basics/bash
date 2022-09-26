@@ -1,1 +1,5 @@
 #!/bin/bash
+for 1..2 in /home/alu-shell/basics/*
+do
+	echo "#!/bin/bash" > ${0-current_working_directory}
+done
