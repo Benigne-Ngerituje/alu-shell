@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd my_first_directory/
+pwd /var
