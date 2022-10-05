@@ -1,8 +1,5 @@
-#!/bin/bash
-n {1..10}
+#!/usr/bin/env bash
+for (( count=1; count<=10; count++ ))
 do
-	echo "Best School"
+	    echo "Best School"
 done
-
-
-
